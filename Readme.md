@@ -1,4 +1,4 @@
-#ETMS
+# Employee Task Management & Performance Metrics System
 What is ETMS? 
 This is a piece of administration software that I want to develop for anyone that has to manage employees/freelancers and then manage their performance.
 
